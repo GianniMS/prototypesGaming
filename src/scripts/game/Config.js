@@ -1,4 +1,4 @@
-import { game } from "./Game";
+import { Game } from "./Game";
 import { Tools } from "../system/Tools";
 
 export const Config = {
